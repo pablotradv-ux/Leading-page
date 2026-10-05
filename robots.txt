@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.pabloteixeira.adv.br/sitemap.xml
